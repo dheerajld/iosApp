@@ -626,7 +626,7 @@
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = Z43AQF953J;
+				DEVELOPMENT_TEAM = DUC3M273M2;
 				INFOPLIST_FILE = NYTimesTests/NYTimesTestInfo.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -646,7 +646,7 @@
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = Z43AQF953J;
+				DEVELOPMENT_TEAM = DUC3M273M2;
 				INFOPLIST_FILE = NYTimesTests/NYTimesTestInfo.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
