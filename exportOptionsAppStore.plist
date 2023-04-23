@@ -23,5 +23,7 @@
 	<true/>
 	<key>uploadSymbols</key>
 	<true/>
+     <key>teamName</key>
+    <string>Suma Soft Private Ltd</string>
 </dict>
 </plist>
