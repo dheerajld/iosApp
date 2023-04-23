@@ -9,7 +9,7 @@
 	<key>provisioningProfiles</key>
 	<dict>
 		<key>$(PRODUCT_BUNDLE_IDENTIFIER)</key>   <!-- Please update this -->
-		<string>NYTimes</string>  <!-- Please update this -->
+		<string>Suma Soft Pvt Ltd(DUC3M273M2)</string>  <!-- Please update this -->
 	</dict>
 	<key>signingCertificate</key>
 	<string>iPhone Distribution</string>
