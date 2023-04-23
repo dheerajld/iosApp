@@ -2,12 +2,20 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-        <key>teamID</key>
-        <string>DUC3M273M2</string>
-        <key>method</key>
-        <string>app-store</string>
-        <key>uploadSymbols</key>
-        <true/>
-       
+    <key>compileBitcode</key>
+    <true/>
+    <key>method</key>
+    <string>app-store</string>
+    <key>provisioningProfiles</key>
+    <dict>
+        <key>com.sumasoft.jenkins</key>
+        <string>MyAppDistributionProfile</string>
+    </dict>
+    <key>signingCertificate</key>
+    <string>Apple Distribution</string>
+    <key>teamID</key>
+    <string>DUC3M273M2</string>
+    <key>thinning</key>
+    <string>&lt;none&gt;</string>
 </dict>
 </plist>
