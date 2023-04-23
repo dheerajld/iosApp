@@ -2,23 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>destination</key>
-	<string>upload</string>
-	<key>method</key>
-	<string>app-store</string>
-	<key>provisioningProfiles</key>
-	<dict>
-		<key>$(PRODUCT_BUNDLE_IDENTIFIER)</key>   <!-- Please update this -->
-		<string>NYTimes</string>  <!-- Please update this -->
-	</dict>
-     <string>Ad Hoc Distribution</string>
-	<key>teamID</key>
-	<string>DUC3M273M2</string>  <!-- Please update this -->
-	<key>uploadBitcode</key>
-	<true/>
-	<key>uploadSymbols</key>
-	<true/>
-     <key>teamName</key>
-    <string>Suma Soft Private Ltd</string>
+<key>method</key>
+<string>ad-hoc</string>
+<key>teamID</key>
+<string>DUC3M273M2</string>
+<key>compileBitcode</key>
+<false/>
+<key>provisioningProfiles</key>
+<dict>
+    <key>com.sumasoft.jenkins</key>
+    <string>Ad Hoc Distribution</string>
+</dict>
 </dict>
 </plist>
