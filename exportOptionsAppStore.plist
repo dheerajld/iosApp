@@ -20,7 +20,7 @@
 	<key>teamID</key>
 	<string>DUC3M273M2</string>  <!-- Please update this -->
 	<key>uploadBitcode</key>
-	<false/>
+	<true/>
 	<key>uploadSymbols</key>
 	<true/>
      <key>teamName</key>
