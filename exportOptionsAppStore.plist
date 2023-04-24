@@ -8,7 +8,7 @@
 	<string>app-store</string>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>$(PRODUCT_BUNDLE_IDENTIFIER)</key>   <!-- Please update this -->
+		<key>com.sumasoft.jenkins</key>   <!-- Please update this -->
 		<string>Suma Soft Pvt Ltd</string>  <!-- Please update this -->
 	</dict>
 	<key>signingCertificate</key>
